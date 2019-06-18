@@ -1,6 +1,6 @@
-FROM alpine:3.8
+FROM wb253/alpine:latest
 
-LABEL maintainer="NGINX Docker Maintainers <docker-maint@nginx.com>"
+LABEL maintainer="NGINX Docker <wangbin253@gmail.com>"
 
 ENV NGINX_VERSION 1.14.2
 
