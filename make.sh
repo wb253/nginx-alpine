@@ -1,1 +1,1 @@
-docker build -t forxing/nginx-alpine .
+docker build -t nies.net.cn/nginx-alpine .
